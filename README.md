@@ -25,7 +25,7 @@ TextUtils is a simple text editor web application built using React, Bootstrap, 
 
 ## Installation
 1. Clone the repository:
-git clone [<repository-url>](https://github.com/kirat13/Text-Editor.git)
+git clone  (https://github.com/kirat13/Text-Editor.git)](https://github.com/kirat13/Text-Editor.git)
 
 2. Navigate to the project directory:
 cd TextUtils
